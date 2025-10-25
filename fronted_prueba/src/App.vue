@@ -4,7 +4,7 @@ import ProductList from './views/ProductList.vue';
 </script>
 
 <template>
-<ProductList/>
+<router-view/>
 </template>
 
 <style scoped></style>
